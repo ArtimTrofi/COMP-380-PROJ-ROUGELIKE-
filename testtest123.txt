@@ -1,0 +1,6 @@
+TEMPORARY FILE IN MAIN BRANCH
+ Additional file in the main branch. test
+
+Will probably put an idea for a basic skeleton in a branch from main, rather than in main branch itself.
+ -should not put stuff in main until we are sure we want to go with that set-up, probably.
+ -new branch = Pull Request? for tentative changes we want to discuss first.
